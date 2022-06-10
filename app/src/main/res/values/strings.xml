@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetPackApplication</string>
+    <string name="title_activity_composer">Composer</string>
+</resources>
